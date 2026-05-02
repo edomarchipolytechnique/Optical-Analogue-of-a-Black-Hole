@@ -1,0 +1,5 @@
+The wavepacket simulation files have been named using the following convention: "A_B_C_D"
+- A: type of black hole
+- B: impact parameter at infinity
+- C (optional): angular momentum
+- D (optional): total charge
